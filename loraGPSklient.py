@@ -8,8 +8,6 @@ def main():
                 if args[0] == "$GPGGA":
                     print(args)
 
-
-
-
 main()
 
+#https://www.google.com/maps/@57.0207251,9.8850979,18.38z
