@@ -8,8 +8,7 @@ def main():
                 if args[0] == "$GPGGA":
                     print(args)
 
-def position():
-    
+
 
 
 main()
